@@ -13,3 +13,7 @@ O projeto foi realizado para utilizar o BD relacional PostgreSQL, sendo conectad
 Link Heroku: https://cad-academia.herokuapp.com/api/alunos (copiar e colar no postman ou similar, adicionando o id quando necessário ao fim da url)
 
 Durante o projeto, foi utilizado o Postman para a realização de teste de Request e Response. 
+
+Criei também uma página de Front-end para realizar o cadastro do Aluno, utilizei Javascript e BootStrap como base
+
+Link do repositório: https://github.com/RamonBatalha/front-crud-acad
